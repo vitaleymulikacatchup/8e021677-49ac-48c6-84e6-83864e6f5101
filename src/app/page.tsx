@@ -37,7 +37,7 @@ export default function Home() {
 
       <div id="hero" data-section="hero">
         <HeroSplit
-          title="Your One-Stop Shopping Destination"
+          title="Your One-Stop Shopping Destination In Delhi"
           description="Discover thousands of quality products from trusted brands with fast shipping and secure payments. Shop with confidence at ShopZone."
           tag="Now Open"
           tagIcon={Sparkles}
