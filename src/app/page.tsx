@@ -45,7 +45,7 @@ export default function Home() {
             { text: "Shop Now", href: "products" },
             { text: "Learn More", href: "about" }
           ]}
-          imageSrc="https://images.pexels.com/photos/8939806/pexels-photo-8939806.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+          imageSrc="https://images.pexels.com/photos/1536619/pexels-photo-1536619.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
           imageAlt="Modern ecommerce shopping experience"
           imagePosition="right"
         />
@@ -79,7 +79,7 @@ export default function Home() {
               icon: Heart
             }
           ]}
-          imageSrc="https://images.pexels.com/photos/12820603/pexels-photo-12820603.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+          imageSrc="https://images.pexels.com/photos/1055691/pexels-photo-1055691.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
           imageAlt="Modern warehouse and distribution center"
           imagePosition="right"
           buttons={[
